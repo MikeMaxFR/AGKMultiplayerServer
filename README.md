@@ -283,7 +283,7 @@ here is the documentation of the Client-side plugin :
 
 
 
-You can simply compile and try the Sample AppGameKit Tier1 Game (very basic race game :p), it is configured by default to connect to my 24/7 AppGameKit Server Linux Box and contains a lot of comments. Use the key 'G' to make your network ghost appears.
+You can simply compile and try the Sample AppGameKit Tier1 Game (very basic race game :p), it is configured by default to connect to my 24/7 AppGameKit Server Linux Box (**edit: now Down**)) and contains a lot of comments. Use the key 'G' to make your network ghost appears.
 Works Also on mobile devices (added a little Virtual Joystick
 
 The plugin is surely not perfect and there is a lot of variant negotiations for Prediction/Reconciliation/Interpolation... (for example, Extrapolation !)
